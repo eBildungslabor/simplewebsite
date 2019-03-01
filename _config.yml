@@ -1,6 +1,7 @@
 # Site settings
 url: https://ebildungslabor.github.io
- repo: "eBildungslabor/simplewebsite"
+repo: eBildungslabor/simplewebsite
+branch: github-master
 title: Design Principles
 description: An Open Source collection of Design Principles and methods
 twitter: "@dsgnprinciples"
